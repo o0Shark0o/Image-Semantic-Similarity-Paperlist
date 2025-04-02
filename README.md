@@ -1,4 +1,4 @@
-# Image-Semantic-Similarity-Paperlist
+# Image-Semantic-Similarity-Paperlist，Useful Dataset Paperlist
 Research records on Image Semantic Similarity/Image Semantic Quality/Image Semantic Assessment
 
 | Paper                                                        | First Author        | Time    |
